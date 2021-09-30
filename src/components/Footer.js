@@ -45,7 +45,7 @@ const Footer = () => {
             <a
               rel='noreferrer'
               target='_blank'
-              href='https://mail.google.com/mail'
+              href='mailto:serhiiborodin83@gmail.com'
               className='social-media-link'
             >
               <FaMailBulk />
