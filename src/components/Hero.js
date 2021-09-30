@@ -18,9 +18,11 @@ const Hero = () => {
         <div className='header-banner'>
           <h1 className='main-heading'>Welcom</h1>
           <h3 className='sub-heading'>Try the Great Cocktails</h3>
-          <button className='main-btn' type='button'>
-            Check All
-          </button>
+          <a href='/products'>
+            <button className='main-btn' type='button'>
+              Check All
+            </button>
+          </a>
         </div>
       </header>
     </HeroStyling>
