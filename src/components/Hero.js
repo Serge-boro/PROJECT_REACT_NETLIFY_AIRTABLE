@@ -12,11 +12,11 @@ const Hero = () => {
           </a>
           <div>
             <h1 className='main-name'>Los Angeles</h1>
-            <p className='sub-name'>Restourant</p>
+            <p className='sub-name'>Restaurant</p>
           </div>
         </div>
         <div className='header-banner'>
-          <h1 className='main-heading'>Welcom</h1>
+          <h1 className='main-heading'>Welcome</h1>
           <h3 className='sub-heading'>Try the Great Cocktails</h3>
           <a href='/products'>
             <button className='main-btn' type='button'>
