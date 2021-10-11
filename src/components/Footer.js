@@ -15,7 +15,7 @@ const Footer = () => {
         </a>
         <div>
           <h1 className='main-name'>Los Angeles</h1>
-          <p className='sub-name'>Restourant</p>
+          <p className='sub-name'>Restaurant</p>
         </div>
       </header>
 
@@ -57,7 +57,7 @@ const Footer = () => {
       <div className='footer-copyright'>
         <p className='footer-copyright-paragraph'>
           &copy; {new Date().getFullYear()} Copyright
-          <span> Restourant "Georgia".</span> All Right Reserved
+          <span> Restaurant Los Angeles.</span> All Right Reserved
         </p>
       </div>
     </Wrapper>
