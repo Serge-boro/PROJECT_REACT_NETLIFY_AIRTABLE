@@ -227,6 +227,7 @@ input:focus {
   font-weight: 300;
   letter-spacing: 2px;
   text-transform: uppercase;
+  text-align: center;
 }
 
 .sub-name {
