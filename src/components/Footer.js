@@ -14,7 +14,7 @@ const Footer = () => {
           <FaGlassMartiniAlt />
         </a>
         <div>
-          <h1 className='main-name'>Los Angeles</h1>
+          <h1 className='main-name'>WELCOME TO SERHII B</h1>
           <p className='sub-name'>Restaurant</p>
         </div>
       </header>
@@ -57,7 +57,7 @@ const Footer = () => {
       <div className='footer-copyright'>
         <p className='footer-copyright-paragraph'>
           &copy; {new Date().getFullYear()} Copyright
-          <span> Restaurant Los Angeles.</span> All Right Reserved
+          <span> Restaurant SERHII B.</span> All Right Reserved
         </p>
       </div>
     </Wrapper>

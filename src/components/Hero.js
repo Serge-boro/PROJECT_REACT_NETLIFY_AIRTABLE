@@ -11,7 +11,7 @@ const Hero = () => {
             <FaGlassMartiniAlt />
           </a>
           <div>
-            <h1 className='main-name'>Los Angeles</h1>
+            <h1 className='main-name'>WELCOME TO SERHII B</h1>
             <p className='sub-name'>Restaurant</p>
           </div>
         </div>
