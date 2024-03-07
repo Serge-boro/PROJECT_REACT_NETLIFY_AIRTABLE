@@ -6,6 +6,7 @@ const airtable = new Airtable({
 })
   .base('app9M53VVRehypn3c')
   .table('products')
+  
 
 exports.handler = async (event, context) => {
   try {
