@@ -5,6 +5,7 @@ Airtable.configure({
   apiKey:
     'pateCt2hAGMBMCxRx.cd7a4ad9d72c6f3ce7244d502b16c2c4ff61ffc267dd46a4b506ecbee245c4b0',
 })
+
 const airtable = new Airtable().base('app9M53VVRehypn3c').table('products')
 
 exports.handler = async (event, context) => {
